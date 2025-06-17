@@ -13,9 +13,12 @@ Designed and implemented a Dynamics 365 workflow that automatically handled agen
 - Triggering necessary notifications
 
 ## Tools & Technologies
-- Microsoft Dynamics 365 CRM
-- Power Automate
-- Business Rules & Workflows
+- Microsoft Visio (Process Mapping & Workflow Diagrams)
+- Microsoft Dynamics 365 CRM (Requirement Context & System Integration)
+- Microsoft Excel (Data Analysis and Reporting)
+- Azure DevOps User Story Tracking
+- Microsoft Teams / Outlook (Stakeholder Communication and Collaboration)
+- SharePoint (Documentation Management) 
 
 ## Business Impact
 - Saved 48+ hours annually for the Account Coordination team
